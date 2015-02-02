@@ -9,7 +9,9 @@ cask install atom
 cask install dropbox
 cask install evernote
 cask install google-chrome
+cask install intellij-idea
 cask install iterm2
+cask install java
 cask install karabiner
 cask install mou
 cask install sequel-pro
