@@ -24,14 +24,22 @@ install brew-file
 
 # Other Homebrew packages
 install ansible
+install autoconf
+install ctags
+install curl
 install gdbm
 install git
 install libevent
 install libyaml
+install mysql
 install node
 install openssl
 install pcre
+install pkg-config
+install rbenv
+install ruby-build
 install tmux
+install wget
 install zsh --disable-etcdir
 
 # App Store applications
