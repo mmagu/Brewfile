@@ -4,6 +4,19 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install alfred
+cask install atom
+cask install dropbox
+cask install evernote
+cask install google-chrome
+cask install iterm2
+cask install karabiner
+cask install mou
+cask install sequel-pro
+cask install skype
+cask install totalfinder
+cask install vagrant
+cask install virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -15,22 +28,21 @@ install gdbm
 install git
 install libevent
 install libyaml
+install node
 install openssl
 install pcre
 install tmux
 install zsh --disable-etcdir
 
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install Warning: nothing to list
-
 # App Store applications
+appstore Battery Health
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore Numbers
+appstore OmniFocus
 appstore Pages
+appstore PopClip
 appstore Slack
 appstore Xcode
