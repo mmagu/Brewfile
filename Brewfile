@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install alfred
 cask install atom
+cask install bartender
 cask install dropbox
 cask install evernote
 cask install google-chrome
@@ -51,6 +52,7 @@ appstore GarageBand
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore Memory Diag
 appstore Numbers
 appstore OmniFocus
 appstore Pages
