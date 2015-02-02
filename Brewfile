@@ -10,7 +10,15 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install ansible
+install gdbm
 install git
+install libevent
+install libyaml
+install openssl
+install pcre
+install tmux
+install zsh --disable-etcdir
 
 # Below applications were installed by Cask,
 # but don't not have corresponding casks.
