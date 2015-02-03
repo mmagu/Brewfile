@@ -15,11 +15,16 @@ cask install iterm2
 cask install java
 cask install karabiner
 cask install mou
+cask install parallels-desktop
 cask install sequel-pro
 cask install skype
+cask install thunderbird
 cask install totalfinder
-cask install vagrant143
 cask install virtualbox
+
+## caskroom/versions
+tap caskroom/versions
+cask install vagrant143
 
 ## rcmdnk/file
 tap rcmdnk/file
