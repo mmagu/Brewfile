@@ -18,7 +18,7 @@ cask install mou
 cask install sequel-pro
 cask install skype
 cask install totalfinder
-cask install vagrant
+cask install vagrant143
 cask install virtualbox
 
 ## rcmdnk/file
