@@ -23,8 +23,8 @@ cask install virtualbox
 
 ## caskroom/versions
 tap caskroom/versions
-cask install vagrant143
 cask install thunderbird-ja
+cask install vagrant143
 
 ## rcmdnk/file
 tap rcmdnk/file
