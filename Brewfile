@@ -18,13 +18,13 @@ cask install mou
 cask install parallels-desktop
 cask install sequel-pro
 cask install skype
-cask install thunderbird
 cask install totalfinder
 cask install virtualbox
 
 ## caskroom/versions
 tap caskroom/versions
 cask install vagrant143
+cask install thunderbird-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
