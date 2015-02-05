@@ -26,6 +26,10 @@ tap caskroom/versions
 cask install thunderbird-ja
 cask install vagrant143
 
+## peco/peco
+tap peco/peco
+install peco
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
