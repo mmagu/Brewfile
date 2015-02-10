@@ -7,6 +7,7 @@ install brew-cask
 cask install alfred
 cask install atom
 cask install bartender
+cask install boot2docker
 cask install dropbox
 cask install evernote
 cask install google-chrome
@@ -14,6 +15,7 @@ cask install intellij-idea
 cask install iterm2
 cask install java
 cask install karabiner
+cask install libreoffice
 cask install mou
 cask install parallels-desktop
 cask install sequel-pro
@@ -39,6 +41,7 @@ install ansible
 install autoconf
 install ctags
 install curl
+install docker
 install gdbm
 install git
 install libevent
